@@ -1,4 +1,4 @@
-# ME504
+# MSE504 Machine Learning Topics
 
 Class Hws of Machine Learning 
 
